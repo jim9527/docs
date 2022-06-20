@@ -29,8 +29,8 @@ Must be one of the following:
 > 这样做的原因是为了方便 code review和多人开发情况下减少冲突.
 
 ## 2. 提交代码
- - 开发完成之后，把代码push到远程仓库， 然后pull request 到develop 分支
- > 这里提交pull request 之后，自己先在github review 一下自己代码的改动。初步筛查代码是否有冲突，是否有误改的代码等错误。
+ - 开发完成之后，把代码push到远程仓库， 然后pull request 到develop 分支 [Tutorial: Learn about create a Bitbucket pull request](https://support.atlassian.com/bitbucket-cloud/docs/create-a-pull-request-to-merge-your-change/)
+ > 这里提交pull request 之后，自己先在bitbucket review 一下自己代码的改动。初步筛查代码是否有冲突，是否有误改的代码等错误。
  - (如果需要code review) 将pull request 的链接发给需要review你代码的同事提醒他review你的代码，然后等待反馈
 
 ## 3. 代码发布
